@@ -1,9 +1,4 @@
-# Housing-price-prediction
-Thanks for the clarification and the new file. After reviewing your second uploaded notebook, I can confirm that this project is about **Housing Price Prediction** using machine learning. Here's a suitable description for your project:
-
----
-
-**Project Title:** Housing Price Prediction Using Machine Learning
+# Housing-price-prediction Using Machine Learning
 
 **Project Description:**
 
